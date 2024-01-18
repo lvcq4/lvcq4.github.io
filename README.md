@@ -9,7 +9,7 @@
 ##  
 
 ### 📜 License & Warning
-- Make for education propose only !
+- Make for education propose only!
 - Under licensed MIT MIT License.
 
 ##  
